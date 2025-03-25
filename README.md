@@ -1,3 +1,3 @@
-# ROAD-ACCIDENT-ANALYSIS
-This is a Power Bi end to end project
+# DIWALI SALES ANALYSIS 2024
+This is a Data Analytics end to end project
 Thankyou !!
